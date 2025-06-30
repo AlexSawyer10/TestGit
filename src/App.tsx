@@ -11,6 +11,8 @@ function App() {
 
     <h1>MY NAME IS ALEX</h1>
     <h2>I play soccer</h2>
+    <h2>I Love Star Wars</h2>
+    <h2>Alex Sawyer Learned Git</h2>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
